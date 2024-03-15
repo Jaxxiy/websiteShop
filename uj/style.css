@@ -1,0 +1,60 @@
+body{
+        background: url('background.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+.nameOfShop{
+        text-align: center;
+        font-size: 40px;
+        font-family: 'Algerian';
+        color: #c6b241;
+}
+
+p{
+        text-align: center;
+        font-size: 25px;
+        color: #c6b241;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.icons{
+        width: 100px;
+        border-radius: 20px;
+        margin: 0px auto;
+        display: block;    
+}
+
+.works{
+        width: 250px;
+        border: 5px solid black;
+        border-radius: 20px;
+        margin: 0px auto;
+        display: block;
+}
+
+.descriptionForWorks{
+        text-align: center;
+        font-size: 18px;
+        color: #c6b241;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nameOfWorks{
+        text-align: center;
+        color: #c6b241;
+        font-family: 'Algerian',sans-serif;
+        font-size: 25px;
+}
+
+.hr-shelf {
+	margin: -30px auto 10px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	box-shadow: 0 20px 20px -20px #050505;
+	width: 100%;
+}
